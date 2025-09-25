@@ -1,0 +1,10 @@
+name = "SorryDBTest"
+version = "0.1.0"
+defaultTargets = ["sorrydbtest"]
+
+[[lean_lib]]
+name = "SorryDBTest"
+
+[[lean_exe]]
+name = "sorrydbtest"
+root = "Main"
