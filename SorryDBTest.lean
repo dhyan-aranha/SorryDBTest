@@ -1,3 +1,4 @@
 -- This module serves as the root of the `SorryDBTest` library.
 -- Import modules here that should be built as part of the library.
 import SorryDBTest.Basic
+import BasicWithElabTactic.lean
